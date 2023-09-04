@@ -4,7 +4,8 @@ A simple, minimal, yet fully functional mini digital piano crafted with HTML, CS
 
 ### Screenshot
 
-![piano](https://github.com/trulysaroj/Digital-Piano/assets/123483889/ad1a2445-3913-4bd3-aaea-6a24ca512dca)
+![piano](https://github.com/trulysaroj/Digital-Piano/assets/123483889/9c898f80-1b66-436a-8ef9-808aae6f17f8)
+
 
 
 ### Deploy on Vercel
